@@ -1,6 +1,4 @@
 # coding-programs
-this is my first repository for coding program
-<br>
-trail for git hub
-<br>
-anime
+hi,I AM kojisosuke
+I AM A BCA STUDENT
+I am currently learning javascript and css .
